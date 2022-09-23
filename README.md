@@ -1,5 +1,4 @@
 # KFC-Clone
-WEB-18 U2, construct week project KFC clone
 
 ## Description
 #### This is a sample application that demonstrates an E-commerce website using HTML, CSS and Javascript. The application loads products on local storage and displays them. Users can select to display products in a single category. Users can click on any product to get more information including pricing, reviews and rating.
@@ -16,25 +15,14 @@ WEB-18 U2, construct week project KFC clone
 ## Site to be Made
  [Click Here For Website Link](https://www.kfc.com/?georedirect=false).
 
-## Team Members
-1. Randhir Kumar 
-2. Summaiya Begum 
-3. Kiran Sahu
-4. Sahnawaz Hussain 
-5. Nitish Kumar
-
-## Tools and Language used
-- Javascript
-- HTML
-- CSS
-- Bootstrap
-
-## Site Made by Us
-https://stellar-hamster-d75ef8.netlify.app/
-
-## Copy this link to clone the Github Repository
-https://github.com/Randhir200/KFC-Clone.git
+## Preview 1
+![kfc1](https://user-images.githubusercontent.com/103142498/191902310-b1721174-3b4f-48e8-a7a1-9445ba3c9ee0.jpeg)
+## Preview 2
+![kfc2](https://user-images.githubusercontent.com/103142498/191902354-31d1ac24-5935-42b3-88a8-497f6e91ab75.jpeg)
+## Preview 3
+![kfc3](https://user-images.githubusercontent.com/103142498/191902369-507e0a72-8ace-486b-94aa-548cb78b3c0b.jpeg)
+## Preview 4
+![kfc4](https://user-images.githubusercontent.com/103142498/191902378-479a08d7-cea6-4fca-a168-9c97df8db10d.jpeg)
 
 
 ## Thank You
-
